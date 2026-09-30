@@ -28,3 +28,6 @@ Bubbles is a hotel and entertainment complex built around water and wellness, po
 
 ## Notes
 The page explicitly states that pool heating, exact pool/temperature details, operating hours, and seasonality need confirmation before a visit. It also notes that room prices and availability change and should be checked on the official site before booking.
+
+## Forms
+Live HotelOS forms (`kp-bubbles`, script before `</body>`): `spa-request` (pool/water-day visit, after `#pools`), `sauna-request` (sauna / чан, after `#wellness`), `event-request` (the former `#events` section) and `stay-request` (after `#rooms`).
